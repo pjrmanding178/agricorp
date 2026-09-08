@@ -1,0 +1,16 @@
+{
+  "name": "agricorp",
+  "version": "1.0.0",
+  "description": "An Ecommerce Platform for Farmers to Consumers Marketplace",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PJ_Manding",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
